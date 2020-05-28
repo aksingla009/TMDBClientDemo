@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TMDBClient</string>
+    <string name="api_key_value">b834d6f834406538cc82d1f7435e5fe4</string>
+    <string name="title_activity_movie">MovieActivity</string>
+</resources>
